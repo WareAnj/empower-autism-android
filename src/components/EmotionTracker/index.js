@@ -4,13 +4,13 @@ import { View, Text, Button, Image, TouchableOpacity } from 'react-native'
 import styles from './styles'
 
 class EmotionTracker extends React.Component {
+    
     render() {
         return (
             <View style={styles.container}>
                 <View style={styles.choices}>
                     <Emotion value='Sad'>
                         <Image
-                            //style={styles.card_image}
                             source={require('../../public/images/sad.jpg')}
                             accessibilityLabel='What does this really do?'
                         />
@@ -34,6 +34,7 @@ class EmotionTracker extends React.Component {
 }
 
 class Emotion extends React.Component {
+
     constructor(props) {
         super(props)
     }
@@ -45,10 +46,6 @@ class Emotion extends React.Component {
     }
 
     render() {
-        // <Image
-        // style={styles.card_image}
-        // source={this.props.value}
-        //    />
         return (
             <TouchableOpacity style={styles.card_image} onPress={this.onPressCard.bind(this)}>
                 {this.props.children}      

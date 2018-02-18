@@ -11,9 +11,9 @@ export default StyleSheet.create({
         flex: 1,
         flexDirection: 'column',
         justifyContent: 'center',
-        alignItems: 'center',
+        alignItems: 'center',    
+    }, card_image: {
         width: '70%',
-        height: '25%',
-        
+        height: '30%'
     }
 })
