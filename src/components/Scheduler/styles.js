@@ -6,7 +6,8 @@ export default StyleSheet.create({
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundColor: '#556b2f'
+        backgroundColor: '#556b2f',
+        margin: 0
     }, choices: {
         flex: 1,
         flexDirection: 'column',

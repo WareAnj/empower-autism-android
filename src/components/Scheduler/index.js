@@ -23,10 +23,6 @@ class Scheduler extends React.Component {
                     monthFormat={'yyyy MM'}
                     // Handler which gets executed when visible month changes in calendar. Default = undefined
                     onMonthChange={(month) => {console.log('month changed', month)}}
-                    // Hide month navigation arrows. Default = false
-                    hideArrows={true}
-                    // Replace default arrows with custom ones (direction can be 'left' or 'right')
-                    renderArrow={(direction) => (<Arrow />)}
                     // Do not show days of other months in month page. Default = false
                     hideExtraDays={false}
                     // If hideArrows=false and hideExtraDays=false do not switch month when tapping on greyed out
