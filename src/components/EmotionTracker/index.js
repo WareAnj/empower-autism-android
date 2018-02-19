@@ -9,7 +9,7 @@ class EmotionTracker extends React.Component {
     render() {
         return (
             <View style={styles.container}>
-                <View style={styles.choices}>
+                <View style={styles.emotions}>
                     <Emotion value='Sad'>
                         <Image
                             source={require('../../public/images/sad.jpg')}

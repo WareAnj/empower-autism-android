@@ -7,7 +7,7 @@ export default StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         backgroundColor: '#556b2f'
-    }, emotions: {
+    }, choices: {
         flex: 1,
         flexDirection: 'column',
         justifyContent: 'center',

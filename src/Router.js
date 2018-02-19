@@ -4,6 +4,7 @@ import Home from './components/Home/'
 import Info from './components/Info/'
 import CardGame from './components/CardGame/'
 import EmotionTracker from './components/EmotionTracker';
+import Scheduler from './components/Scheduler';
 
 const Router = TabNavigator({
     Home: {
@@ -17,6 +18,8 @@ const Router = TabNavigator({
     },
     EmotionTracker: {
         screen: EmotionTracker
+    },Scheduler: {
+        screen: Scheduler
     }
 }, {
     initialRouteName: 'Info',
