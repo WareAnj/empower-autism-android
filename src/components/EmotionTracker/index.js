@@ -3,6 +3,7 @@ import { View, Text, Button, Image, TouchableOpacity } from 'react-native'
 
 import styles from './styles'
 
+
 class EmotionTracker extends React.Component {
     
     render() {
