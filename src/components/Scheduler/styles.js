@@ -4,17 +4,20 @@ import { StyleSheet } from 'react-native'
 export default StyleSheet.create({
     container: {
         flex: 1,
+        flexDirection: 'column',
         alignItems: 'center',
         justifyContent: 'center',
-        backgroundColor: '#556b2f',
-        margin: 0
-    }, choices: {
+    }, calendar: {
         flex: 1,
         flexDirection: 'column',
         justifyContent: 'center',
-        alignItems: 'center',    
-    }, card_image: {
-        width: '70%',
-        height: '30%'
+        alignItems: 'center',
+        marginTop: 5
+    }, schedule: {
+        flex: 1,
+        flexDirection: 'row',
+    }, scheduleButtons: {
+        flex: 1,
+        flexDirection: 'column'
     }
 })
