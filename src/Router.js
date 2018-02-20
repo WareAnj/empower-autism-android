@@ -3,7 +3,8 @@ import { TabNavigator } from 'react-navigation'
 import Home from './components/Home/'
 import CardGame from './components/CardGame/'
 import EmotionTracker from './components/EmotionTracker';
-import Scheduler from './components/Scheduler';
+//import Scheduler from './components/Scheduler';
+import CalendarScreen from './components/Scheduler';
 
 const Router = TabNavigator({
     Home: {
@@ -13,11 +14,11 @@ const Router = TabNavigator({
         screen: CardGame,
     },
     EmotionTracker: {
-        screen: EmotionTracker
+        screen: EmotionTracker,
     },
-    Scheduler: {
-        screen: Scheduler
-    }
+    // Scheduler: {
+    //     screen: Scheduler
+    // }
 }, {
     initialRouteName: 'Home',
     tabBarPosition: 'bottom'
