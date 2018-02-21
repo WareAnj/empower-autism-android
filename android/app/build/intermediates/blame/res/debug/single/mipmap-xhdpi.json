@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/home/geeca/Desktop/empower-autism-android/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }

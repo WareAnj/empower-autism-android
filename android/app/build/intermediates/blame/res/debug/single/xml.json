@@ -2,5 +2,9 @@
     {
         "merged": "/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.3/res/xml/preferences.xml"
     }
 ]

@@ -3,138 +3,57 @@
 
     <item
         is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_4196bf20df6b1f9404d18bda11df2d13af7e1909.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b7af89de1d7e3e9fccf656ecbfe977172211165b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/geeca/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_af5f754b86abf3be8cf4ed6b3fe0d9498b55d72f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_9ed7d6ea729e25456a3d0fc3b99c2dc148f413b9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_b42a00d39e4d3b638d52313dc0b8078f38d5411c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_9eba76632b050474b6abca9ad2d955b99d16f294.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_4c76d30cf0f5cb7853556eaef29e1f72ebc18cc3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_a92b7db73734682d59c3b9f21330d0e14b3559c1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_a11862c84e65d528207186c60b2e4d17a349a76f.jar" />
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_2b467036aea614faec08b30fe7bf6a29d3c9cf7c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.3/jars/libs/infer-annotations-4.0.jar"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c0135373ee6c3e4921dc908422ea76c4623f7293.jar" />
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_eb2ea02b782d0032c371f23991a5bc5255bfb9c4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/geeca/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_874bd94b98786c98dd0b8e9887792a255e0e2833.jar" />
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_24406a114bbf4ff914601098fd061803f97621b9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_770f9b0de834a57f6d6c70e8d55025eda4775685.jar" />
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c5da3d93ee73043dc3203d04037878e413480049.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/geeca/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_615e303a5ec8ffd972c636a405647dbcfb2932a6.jar" />
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_4ad884b13e68661c53e42fe1cbb613e397b46e77.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.3/jars/classes.jar"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.3/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="9755c624eb5e74e09e1ad8472b57a9022ed48cfd">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.3_5510c89f0610c3b245740e62662e9195a9f34a40.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/geeca/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3c938208cde83903f6db75326c3096920c903ada.jar" />
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.3_6239ff8ee7ee7ceaf960fc3b14c6f7bd854a5872.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,7 +62,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_2542bff67aded33e3830812a023177c4d8e430ab.jar" />
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_2542bff67aded33e3830812a023177c4d8e430ab.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +71,7 @@
         optimize="true"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_e55c160c4864c1d81e4c69d6520fe46331333662.jar" />
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_e55c160c4864c1d81e4c69d6520fe46331333662.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,16 +80,25 @@
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c5746685207727ed692662fa417f87d7b3f36036.jar" />
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c5746685207727ed692662fa417f87d7b3f36036.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_5bd8d2ed5376b2195141db7d4781bc2354f62f16.jar" />
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_e0d9a51182d38c2ee81492ce4d9d086c62af5532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_72645392c7ed8ff5633cdea7aa16b47a67676c39.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,16 +107,88 @@
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_cec4057fc36b46c6d89c90af6671f2a8d9239348.jar" />
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_cec4057fc36b46c6d89c90af6671f2a8d9239348.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_e6e55ac410ecbfec49bd2ba4d1fd851eb42fb87e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/geeca/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_af5f754b86abf3be8cf4ed6b3fe0d9498b55d72f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_113c1a785d06fb154b29d08caff81e1313ecb975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/geeca/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_874bd94b98786c98dd0b8e9887792a255e0e2833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/geeca/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_615e303a5ec8ffd972c636a405647dbcfb2932a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/geeca/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3c938208cde83903f6db75326c3096920c903ada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_91fc6ac596ac7341f88c4a8f02da49578d824a41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/geeca/Desktop/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_3177f0421ea6f42a9dabdfcec6666178d9caa3a4.jar" />
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_7abf1b03cf2136014d94e15d94f54e6258886f47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/geeca/Desktop/empower-autism/empower-autism-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_542604d6fb6bd8e4b68f3e2d82603911d8bc6dd0.jar" />
     </item>
 
 </items>
